@@ -1,1 +1,2 @@
 # Geradorimagem
+"adicionar"
