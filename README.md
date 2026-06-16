@@ -1,2 +1,2 @@
 # Geradorimagem
-"adicionar"
+"index.html"
